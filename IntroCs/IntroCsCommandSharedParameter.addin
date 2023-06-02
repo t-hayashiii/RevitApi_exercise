@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>共有パラメータ</Text>
+    <Description>Some description for IntroCs</Description>
+    <Assembly>IntroCs.dll</Assembly>
+    <FullClassName>IntroCs.SharedParameter</FullClassName>
+    <ClientId>047F0070-7134-483B-AE7E-52DECAA23599</ClientId>
+    <VendorId>ADNP</VendorId>
+    <VendorDescription>Autodesk</VendorDescription>
+  </AddIn>
+</RevitAddIns>

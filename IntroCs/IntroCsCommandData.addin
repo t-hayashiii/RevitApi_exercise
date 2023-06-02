@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>バージョン情報等</Text>
+    <Description>Some description for IntroCs</Description>
+    <Assembly>IntroCs.dll</Assembly>
+    <FullClassName>IntroCs.CommandData</FullClassName>
+    <ClientId>738A5D7D-EDAF-4463-B2DC-E7BA29B1974D</ClientId>
+    <VendorId>ADNP</VendorId>
+    <VendorDescription>Autodesk</VendorDescription>
+  </AddIn>
+</RevitAddIns>

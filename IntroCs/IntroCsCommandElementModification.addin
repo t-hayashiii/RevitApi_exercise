@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>要素の修正</Text>
+    <Description>Some description for IntroCs</Description>
+    <Assembly>IntroCs.dll</Assembly>
+    <FullClassName>IntroCs.ElementModification</FullClassName>
+    <ClientId>1E8890B7-B6DA-47A7-BC8D-91E1A2A3CDFA</ClientId>
+    <VendorId>ADNP</VendorId>
+    <VendorDescription>Autodesk</VendorDescription>
+  </AddIn>
+</RevitAddIns>

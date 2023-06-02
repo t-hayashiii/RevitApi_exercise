@@ -1,0 +1,6 @@
+D:\Dropbox (矢作建設工業)\■ HAYASHI-Project\prj_C#\_トレーニング_RevitAPI入門\Exercise\UiCs\bin\Debug\UiCs.dll
+D:\Dropbox (矢作建設工業)\■ HAYASHI-Project\prj_C#\_トレーニング_RevitAPI入門\Exercise\UiCs\bin\Debug\UiCs.pdb
+D:\Dropbox (矢作建設工業)\■ HAYASHI-Project\prj_C#\_トレーニング_RevitAPI入門\Exercise\UiCs\obj\Debug\UiCs.csproj.AssemblyReference.cache
+D:\Dropbox (矢作建設工業)\■ HAYASHI-Project\prj_C#\_トレーニング_RevitAPI入門\Exercise\UiCs\obj\Debug\UiCs.csproj.CoreCompileInputs.cache
+D:\Dropbox (矢作建設工業)\■ HAYASHI-Project\prj_C#\_トレーニング_RevitAPI入門\Exercise\UiCs\obj\Debug\UiCs.dll
+D:\Dropbox (矢作建設工業)\■ HAYASHI-Project\prj_C#\_トレーニング_RevitAPI入門\Exercise\UiCs\obj\Debug\UiCs.pdb

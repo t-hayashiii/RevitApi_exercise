@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>モデル作成</Text>
+    <Description>Some description for IntroCs</Description>
+    <Assembly>IntroCs.dll</Assembly>
+    <FullClassName>IntroCs.ModelCreation</FullClassName>
+    <ClientId>14095FBB-41B7-479A-A128-6F7DCA854681</ClientId>
+    <VendorId>ADNP</VendorId>
+    <VendorDescription>Autodesk</VendorDescription>
+  </AddIn>
+</RevitAddIns>

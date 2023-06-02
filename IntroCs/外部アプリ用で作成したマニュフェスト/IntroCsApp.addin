@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>Hello World App</Name>
+    <Description>Some description for IntroCs</Description>
+    <Assembly>IntroCs.dll</Assembly>
+    <FullClassName>IntroCs.HelloWorldApp</FullClassName>
+    <ClientId>d2d14dc6-2f27-4102-a5c5-5203cc52f769</ClientId>
+    <VendorId>ADNP</VendorId>
+    <VendorDescription>Autodesk</VendorDescription>
+  </AddIn>
+</RevitAddIns>

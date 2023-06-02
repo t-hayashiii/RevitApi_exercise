@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Text> UiCs_インストーラーテスト</Text>
+		<Description>Some description for UiCs</Description>
+		<Assembly>UiCs.dll</Assembly>
+		<FullClassName>UiCs.UIInstallTest</FullClassName>
+		<ClientId>CFEB6316-0DC8-4F1D-A11B-EFBE371F9009</ClientId>
+		<VendorId>Hayashi</VendorId>
+		<VendorDescription>Hayashi</VendorDescription>
+	</AddIn>
+</RevitAddIns>

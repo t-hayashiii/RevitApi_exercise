@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>ファミリ_角柱の作成コマンド</Text>
+    <Description>Some description for FamilyLabsCs</Description>
+    <Assembly>FamilyLabsCs.dll</Assembly>
+    <FullClassName>FamilyLabsCs.RvtCmd_FamilyCreateColumnRectangle</FullClassName>
+    <ClientId>27094595-1626-451E-BA6E-B95A8E6702A5</ClientId>
+    <VendorId>Hayashi</VendorId>
+    <VendorDescription>Hayashi</VendorDescription>
+  </AddIn>
+  <AddIn Type="Command">
+    <Text>ファミリ_L角柱の作成コマンド</Text>
+    <Description>Some description for FamilyLabsCs</Description>
+    <Assembly>FamilyLabsCs.dll</Assembly>
+    <FullClassName>FamilyLabsCs.RvtCmd_FamilyCreateColumnLShape</FullClassName>
+    <ClientId>B6A2C957-9B77-434C-ADCC-71E99B923026</ClientId>
+    <VendorId>Hayashi</VendorId>
+    <VendorDescription>Hayashi</VendorDescription>
+  </AddIn>
+    <AddIn Type="Command">
+	    <Text>ファミリ_計算式とマテリアルの追加</Text>
+	    <Description>Some description for FamilyLabsCs</Description>
+	    <Assembly>FamilyLabsCs.dll</Assembly>
+	    <FullClassName>FamilyLabsCs.RvtCmd_FamilyCreateColumnFormulaMaterial</FullClassName>
+	    <ClientId>925D2B35-45EE-42B7-A081-E8312CD4F581</ClientId>
+	    <VendorId>Hayashi</VendorId>
+	    <VendorDescription>Hayashi</VendorDescription>
+    </AddIn>
+	<AddIn Type="Command">
+		<Text>ファミリ_可視性コントロールの追加</Text>
+		<Description>Some description for FamilyLabsCs</Description>
+		<Assembly>FamilyLabsCs.dll</Assembly>
+		<FullClassName>FamilyLabsCs.RvtCmd_FamilyCreateColumnVisibility</FullClassName>
+		<ClientId>6482C80E-5903-4A58-A775-8B3617ECA8A8</ClientId>
+		<VendorId>Hayashi</VendorId>
+		<VendorDescription>Hayashi</VendorDescription>
+	</AddIn>
+</RevitAddIns>

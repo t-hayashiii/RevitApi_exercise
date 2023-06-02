@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Text> UiCs_タスクダイアログ</Text>
+		<Description>Some description for UiCs</Description>
+		<Assembly>UiCs.dll</Assembly>
+		<FullClassName>UiCs.UITaskDialog</FullClassName>
+		<ClientId>964E4EF6-6E0F-4AD4-A91D-6DFBA7811A4B</ClientId>
+		<VendorId>Hayashi</VendorId>
+		<VendorDescription>Hayashi</VendorDescription>
+	</AddIn>
+</RevitAddIns>

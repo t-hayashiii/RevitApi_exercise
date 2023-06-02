@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>Application UiCs_リボン</Name>
+    <Assembly>UiCs.dll</Assembly>
+    <FullClassName>UiCs.UIRibbon</FullClassName>
+    <ClientId>618A2D91-7FF0-430E-8A13-10FEB5F66D64</ClientId>
+    <VendorId>Hayashi</VendorId>
+    <VendorDescription>Hayashi</VendorDescription>
+  </AddIn>
+</RevitAddIns>
